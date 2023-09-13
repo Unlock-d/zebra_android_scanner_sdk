@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>be.unlockd.libraries</groupId>
+  <artifactId>barcode_scanner_library</artifactId>
+  <versioning>
+    <latest>v2.6.19.0</latest>
+    <release>v2.6.19.0</release>
+    <versions>
+      <version>v2.6.19.0</version>
+    </versions>
+    <lastUpdated>20230913090425</lastUpdated>
+  </versioning>
+</metadata>
